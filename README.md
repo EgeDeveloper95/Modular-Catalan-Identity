@@ -1,5 +1,5 @@
 
-$$\sum_{n=0}^{\infty} (-1)^n \frac{(2n)!}{(n+1)!n!} \left[ \frac{1 - n((640320)^3 + 1)}{(640320)^{3n}} \right] = 2$$
+$$\sum_{n=0}^{\infty} (-1)^n \frac{(2n)!}{(n+1)!n!} \left[ \frac{1 - n((640320)^3 + 1)}{(640320)^{3n}} \right] \approx 2$$
 
 ## Mathematical Context: The Large Invariant Limit
 
