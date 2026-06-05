@@ -12,6 +12,3 @@ where $C_n = \frac{1}{n+1} \binom{2n}{n}$ is the $n$-th Catalan number and $j(d)
 **Conjecture:** For all such discriminants $d$, the series converges to the integer $2$:
 
 $$\sum_{n=0}^{\infty} \left( 1 + n(j(d) - 1) \right) \frac{C_n}{j(d)^n} = 2$$
-
-## Numerical Verification
-Using high-precision arithmetic, the series has been verified for the following discriminants:
